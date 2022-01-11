@@ -1,0 +1,51 @@
+h1{
+ color: red;   
+ background-color:#FFFFFF;
+ text-align: center;
+ font-size: 60;
+ font-family: calistoga;
+ width: 100%;
+}
+body{     
+    background-color:#D71920;
+    font-size: 40;
+}
+a.link{
+    color: blue;
+    
+}
+a.visted{
+    color: cadetblue;
+    
+}
+a.hover{
+    color: darkblue;
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}.header{
+    width: 100%;
+    
+}
+.left{
+    background-color: #D71920;
+    float: left;
+    width: 28%;
+    
+}
+.right{
+    float: right;
+    
+}
+.center{
+    float: center;
+    
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: #FFFFFF;
+    font-size: 60;
+}
